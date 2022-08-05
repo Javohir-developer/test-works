@@ -23,10 +23,12 @@ Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
 DIRECTORY STRUCTURE
 -------------------
+запуск проекта
+1. composer update
+2. php init
+3. php yii migrate
+4. <img src="/backend/web/images/config.jpg" width="400" height="100"  target="_blank">
+4. <img src="/backend/web/images/page.jpg" width="400" height="100"  target="_blank">
 
 ```
 
-
-
-
-```
